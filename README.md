@@ -5,7 +5,7 @@ Llevo más de 1 año estudiando HTML, CSS y Javascript y recientemente comencé 
 Mi intención es tener un buen manejo de JS y luego ir incursionando en los Frameworks y librerías.
 Tambien estoy estudiando JAVA, aunque lo vengo haciendo más despacio y aún no he desarrollado nada con el mismo.
 
-Actualmente me encuentro en la búsqueda de nuevos desafíos que me impulsen a mejorar aprender mucho más en el desarrollo FrontEnd y posiblemente en Backend.
+Actualmente me encuentro en la búsqueda de nuevos desafíos que me impulsen a mejorar y aprender mucho más en el desarrollo FrontEnd.
 
 Tengo buen manejo de SQL, diseño de BBDD y también me gusta colaborar con el usuario en la definición de los casos de uso y requerimientos del sistema.
 
